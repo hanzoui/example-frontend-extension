@@ -1,2 +1,2 @@
-# ComfyUI_example_frontend_extension
-Example ComfyUI custom node that adds frontend features.
+# Hanzo Studio_example_frontend_extension
+Example Hanzo Studio custom node that adds frontend features.
